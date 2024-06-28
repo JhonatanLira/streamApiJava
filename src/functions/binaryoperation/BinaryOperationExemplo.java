@@ -1,4 +1,4 @@
-package binaryoperation;
+package functions.binaryoperation;
 
 import java.util.Arrays;
 import java.util.List;
